@@ -40,7 +40,7 @@ accountOne and 10 ether into accountTwo
 # Deposit Function - Transaction 1: 1 ETH
 ![3_deposit_function_transaction_1_1_eth](https://github.com/Chrisdeleon91/Module-20-Solidity-Challenge/assets/22796940/444e35d8-e128-4316-b7a0-d48390067d07)
 # Contract Balance - Transaction 1: 1 ETH
-![4_contract_balance_transaction_1](https://github.com/Chrisdeleon91/Module-20-Solidity-Challenge/assets/22796940/27defce4-34ad-4cfa-afd8-e69a26b76795)
+![4_contract_balance_transaction_1](https://github.com/Chrisdeleon91/Module-20-Solidity-Challenge/assets/22796940/7b63caac-eee2-450a-a0ed-268cf5529e92)
 # Deposit Function - Transaction 2: 10 ETH
 ![5_deposit_function_transcation_2_10_eth](https://github.com/Chrisdeleon91/Module-20-Solidity-Challenge/assets/22796940/c82dc81b-cf07-41db-874c-03fdf135845d)
 # Contract Balance - Transaction 2: 10 ETH
