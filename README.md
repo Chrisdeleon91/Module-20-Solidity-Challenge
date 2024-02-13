@@ -11,10 +11,10 @@ To automate the creation of joint savings accounts, I’ll create a Solidity sma
 
 ## Instructions on how to use 
 
-### 1. Copy the contents of joint_savings.sol and upload to a Remix Online IDE workspace (https://remix.ethereum.org/)
-* Upload  the file to a workspace 
+### Copy the contents of joint_savings.sol and upload to a Remix Online IDE workspace (https://remix.ethereum.org/)
+* Upload joint_savings.sol to a workspace 
 * Run the "Solidity compiler" (version 0.5.0+commit.1d4f565a) on the left-hand side window pane and select "Compile joint_savings.sol"
-* Go to the "Deploy & run transactions" using the "Remiux VM (Berlin) Environment then press the orange "Deploy" button
+* Go to the "Deploy & run transactions"  section and select the "Remiux VM (Berlin) Environment, then press the orange "Deploy" button
 
 ## Interact with Your Deployed Smart Contract
 
